@@ -34,8 +34,13 @@ A lo largo de mi carrera, he trabajado en varios proyectos que demuestran mis ha
 
 Si deseas discutir posibles colaboraciones, tienes alguna pregunta o simplemente quieres conectarte, no dudes en contactarme a través de los siguientes canales:
 
-- ✉️ Correo electrónico: [tu.email@example.com](mailto:tu.email@example.com)
-- 🌐 GitHub: [github.com/tu-usuario](https://github.com/tu-usuario)
-- 💼 LinkedIn: [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
+- ✉️ Correo electrónico: [death.the.system@gmail.com](mailto:death.the.system@gmail.com)
+- 🌐 GitHub: [github.com/FranSanabri](https://github.com/FranSanabri)
+- 💼 LinkedIn: [linkedin.com/in/francisco-jesus-sanabria-07b189236/](https://
 
-¡Espero con inter
+www.linkedin.com/in/francisco-jesus-sanabria-07b189236/)
+
+¡Espero con interés saber de ti!
+
+Saludos cordiales,
+Francisco Jesus Sanabria
