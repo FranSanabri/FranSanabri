@@ -1,5 +1,3 @@
-# README - Francisco Jesus Sanabria
-
 ## Desarrollador Full Stack
 
 ### Acerca de mí
