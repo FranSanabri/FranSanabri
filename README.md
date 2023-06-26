@@ -28,7 +28,7 @@ A lo largo de mi carrera, he trabajado en varios proyectos que demuestran mis ha
 
 - 🍹 **E-commerce de Bebidas Alcohólicas**: Creé una plataforma de comercio electrónico completa utilizando React, Redux y Express. Implementé características como listado de productos, funcionalidad de carrito de compras, autenticación de usuarios e integración de pago seguro.
 
-- 🍽️ **PI Food de Henry**: Desarrollé una aplicación llamada PI Food utilizando React, Redux y Sequelize. La aplicación permite buscar recetas de cocina, ver detalles de las recetas y guardarlas como favoritas. 
+- 🍽️ **PI Food de Henry**: Desarrollé una aplicación llamada PI Food utilizando React, Redux y Sequelize. La aplicación permite buscar recetas de cocina, ver detalles de las recetas y guardarlas como favoritas. También implementé un sistema de administración de usuarios y autenticación.
 
 ### Contacto
 
@@ -36,11 +36,7 @@ Si deseas discutir posibles colaboraciones, tienes alguna pregunta o simplemente
 
 - ✉️ Correo electrónico: [death.the.system@gmail.com](mailto:death.the.system@gmail.com)
 - 🌐 GitHub: [github.com/FranSanabri](https://github.com/FranSanabri)
-- 💼 LinkedIn: [linkedin.com/in/francisco-jesus-sanabria-07b189236/](https://
-
-www.linkedin.com/in/francisco-jesus-sanabria-07b189236/)
-
-¡Espero con interés saber de ti!
+- 💼 LinkedIn: [linkedin.com/in/francisco-jesus-sanabria-07b189236/](https://www.linkedin.com/in/francisco-jesus-sanabria-07b189236/)
 
 Saludos cordiales,
 Francisco Jesus Sanabria
